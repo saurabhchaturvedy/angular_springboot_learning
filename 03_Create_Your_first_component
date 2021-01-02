@@ -1,1 +1,3 @@
 ng generate component my-component
+
+kill angular process on 4200 :  sudo lsof -t -i tcp:4200 | xargs kill -9
