@@ -1,0 +1,4 @@
+Install Node
+Install VSCode
+Install angular-cli ==== npm install -g @angular/cli
+Check angular-cli version :  ng --version
