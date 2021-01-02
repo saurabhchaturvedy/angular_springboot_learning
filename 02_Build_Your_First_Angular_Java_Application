@@ -3,3 +3,8 @@ Create new angular project
 
 ng new first-angular-app
 ng serve --open
+
+1. index.html - main driver class for binding all angular app components
+2. app.component.ts - creating the selector that we bind in index.html .
+3. app.component.html - corresponding html file for creating the selector html structure .
+4. app.component.css - corresponding css file for creating styling for selector component .
